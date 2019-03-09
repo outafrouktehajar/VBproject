@@ -1,0 +1,13 @@
+C:\Users\Dell\Documents\Visual Studio 2010\Projects\club sport\club sport\bin\Debug\club sport.exe
+C:\Users\Dell\Documents\Visual Studio 2010\Projects\club sport\club sport\bin\Debug\club sport.pdb
+C:\Users\Dell\Documents\Visual Studio 2010\Projects\club sport\club sport\bin\Debug\club sport.xml
+C:\Users\Dell\Documents\Visual Studio 2010\Projects\club sport\club sport\obj\x86\Debug\club_sport.Form1.resources
+C:\Users\Dell\Documents\Visual Studio 2010\Projects\club sport\club sport\obj\x86\Debug\club_sport.Form2.resources
+C:\Users\Dell\Documents\Visual Studio 2010\Projects\club sport\club sport\obj\x86\Debug\club_sport.Form3.resources
+C:\Users\Dell\Documents\Visual Studio 2010\Projects\club sport\club sport\obj\x86\Debug\club_sport.Resources.resources
+C:\Users\Dell\Documents\Visual Studio 2010\Projects\club sport\club sport\obj\x86\Debug\club sport.vbproj.GenerateResource.Cache
+C:\Users\Dell\Documents\Visual Studio 2010\Projects\club sport\club sport\obj\x86\Debug\club sport.exe
+C:\Users\Dell\Documents\Visual Studio 2010\Projects\club sport\club sport\obj\x86\Debug\club sport.xml
+C:\Users\Dell\Documents\Visual Studio 2010\Projects\club sport\club sport\obj\x86\Debug\club sport.pdb
+C:\Users\Dell\Documents\Visual Studio 2010\Projects\club sport\club sport\bin\Debug\club sport.exe.config
+C:\Users\Dell\Documents\Visual Studio 2010\Projects\club sport\club sport\bin\Debug\club.accdb
